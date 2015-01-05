@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java/standalone/simple/cli","configs":{}},"builders":{"default":"maven"}}
+{"description":"A simple JAR project based on Maven.","builders":{"default":"maven"},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"type":"maven","attributes":{"language":["java"],"contribute":["true"]}}
