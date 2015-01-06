@@ -21,22 +21,22 @@ Given that your are testing on a dev instance: http://dev.box.com
 
 - Clone and build the [CLI project](https://github.com/codenvy/cli) in your workspace
 
-    git clone git@github.com:codenvy/cli.git
-    cd cli
-    mvn clean install
+        git clone git@github.com:codenvy/cli.git
+        cd cli
+        mvn clean install
 
 - (optional) You can add your project to the PATH environment variable, for instance in my ~/.bashrc:
 
-    export PATH=/home/user/path/to/cli:$PATH
+        export PATH=/home/user/path/to/cli:$PATH
 
 - Anywhere, get our `factory.json` file that contains the right metadata
 
-    wget https://raw.githubusercontent.com/codenvy/factories/factory-2.0/contribution-workflow/factory.json
+        wget https://raw.githubusercontent.com/codenvy/factories/factory-2.0/contribution-workflow/factory.json
 
 - login to your Codenvy test serveur and create the factory
 
-    codenvy remote add dev http://dev.box.com
-    codenvy login --remote dev
-    codenvy create-factory --remote dev factory.json
+        codenvy remote add dev http://dev.box.com
+        codenvy login --remote dev
+        codenvy create-factory --remote dev factory.json
 
 Done :)
