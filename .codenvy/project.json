@@ -1,0 +1,1 @@
+{"builders":{"default":"maven"},"runners":{"configs":{"recommend":{"options":{},"variables":{},"ram":256}},"default":"system:/java/standalone/simple/cli"},"description":"A simple JAR project based on Maven.","type":"maven","attributes":{"language":["java"],"contribute":["true"]}}
