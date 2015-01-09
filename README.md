@@ -26,7 +26,7 @@ Given that your are testing on a dev instance: http://dev.box.com
         mvn clean install
         
         
-        pouet un changement ...
+        pouet un changement ... youhou
 
 - (optional) You can add your project to the PATH environment variable, for instance in my ~/.bashrc:
 
