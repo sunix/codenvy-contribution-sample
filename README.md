@@ -24,6 +24,9 @@ Given that your are testing on a dev instance: http://dev.box.com
         git clone git@github.com:codenvy/cli.git
         cd cli
         mvn clean install
+        
+        
+        pouet un changement ...
 
 - (optional) You can add your project to the PATH environment variable, for instance in my ~/.bashrc:
 
