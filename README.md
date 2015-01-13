@@ -21,6 +21,9 @@ Given that your are testing on a dev instance: http://dev.box.com
 
 - Clone and build the [CLI project](https://github.com/codenvy/cli) in your workspace
 
+
+qsdfqdsfkjqslmdfjk
+
         git clone git@github.com:codenvy/cli.git
         cd cli
         mvn clean install
