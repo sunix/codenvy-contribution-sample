@@ -19,6 +19,9 @@ The buttons below are factory URLs generated with Codenvy CLI
 
 Given that your are testing on a dev instance: http://dev.box.com
 
+
+qsdfqsdfq
+
 - Clone and build the [CLI project](https://github.com/codenvy/cli) in your workspace
 
         git clone git@github.com:codenvy/cli.git
