@@ -18,6 +18,7 @@ The buttons below are factory URLs generated with Codenvy CLI
 ## Generate your own contribution button for your test Codenvy/Eclipse Che server
 
 Given that your are testing on a dev instance: http://dev.box.com
+plop
 
 - Clone and build the [CLI project](https://github.com/codenvy/cli) in your workspace
 
