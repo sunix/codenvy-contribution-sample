@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java/standalone/simple/cli","configs":{}},"builders":{"default":"maven"}}
+{"builders":{"default":"maven"},"runners":{"configs":{},"default":"system:/java/standalone/simple/cli"},"type":"maven","attributes":{"language":["java"],"contribute_branch":["master"]}}
