@@ -1,5 +1,6 @@
 ### Contribution workflow
 [![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](http://a4.codenvy-dev.com/f?id=86aany3cbz7q2583) a4 contribute workflow
+
 [![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](http://nightly.codenvy-stg.com/f?id=yrtazdmruzya046n) nightly contribute workflow
 
 
